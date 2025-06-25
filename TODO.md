@@ -1,0 +1,20 @@
+### TODO LIST
+- [ ] Windows client
+  - [ ] Basic IO communication with server
+  - [ ] Persistance
+  - [ ] Basic file gathering
+  - [ ] HVNC 
+  - [ ] Task Manager  
+  - [ ] Startup Manager 
+  - [ ] Remote Desktop 
+  - [ ] Remote Execution 
+  - [ ] System Information 
+  - [ ] Registry Editor   
+  - [ ] System Power Commands 
+  - [ ] Webcam Capture   
+  - [ ] Microphone Capture 
+  - [ ] Chat    
+  - [ ] Remote Script Execution  
+  - [ ] Manage privilege levels
+  - [ ] Telegram Notifications   
+  - [ ] Block IPs   
