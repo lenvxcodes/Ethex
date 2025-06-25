@@ -1,0 +1,2 @@
+# Ethex
+Education purposes only
